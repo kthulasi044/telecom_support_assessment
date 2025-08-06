@@ -159,5 +159,16 @@ OpenAI API key is required for Task 1 to work.
 
 If API quota is exceeded, you will get a 429 Rate Limit Error.
 
+Output Screenshots:
+Task 1:
+<img width="1232" height="545" alt="image" src="https://github.com/user-attachments/assets/853c1402-248e-4727-bcad-80c5ae99cf9e" />
+
+<img width="1219" height="563" alt="image" src="https://github.com/user-attachments/assets/1d140bf3-cb07-4b94-b957-4490310f0fbe" />
+
+<img width="1232" height="543" alt="image" src="https://github.com/user-attachments/assets/69fae98c-410a-424c-8df1-8c3cfec9a6c2" />
+
+Task 2:
+<img width="1216" height="587" alt="image" src="https://github.com/user-attachments/assets/afeac2eb-59ed-4ffc-ab2d-d65e0211f7f7" />
+
 
 "# telecom_support_assessment" 
